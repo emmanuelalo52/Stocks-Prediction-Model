@@ -18,10 +18,10 @@ Clone the repository to your local machine.
 
 Install essential modules with the commands:
 
-pip install seaborn
-pip install scikit-learn
-pip install matplotlib
-pip install pandas
+-pip install seaborn
+-pip install scikit-learn
+-pip install matplotlib
+-pip install pandas
 Dive into the Google Colab environment for a seamless experience.
 
 Usage:
