@@ -1,7 +1,6 @@
 # Stock Price Prediction
 
-This GitHub repository contains a Python script for analyzing and predicting stock prices using historical data. The script leverages popular data science and machine learning libraries, including NumPy, Matplotlib, Seaborn, Scikit-Learn, Pandas, and Keras. It is designed to work with a JSON configuration file and historical stock price data in CSV format.
-
+This GitHub repository presents a Python script developed for the purpose of conducting in-depth analysis and forecasting of stock prices by utilizing historical data. The script makes use of well-established data science and machine learning libraries such as NumPy, Matplotlib, Seaborn, Scikit-Learn, Pandas, and Keras. It is meticulously designed to seamlessly integrate with a JSON configuration file and historical stock price data in CSV format.
 ## Table of Contents
 
 - [Requirements](#requirements)
